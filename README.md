@@ -1,2 +1,2 @@
 # MultiplicationMOD
-Multiplicaation Genertator
+Multiplication Tables Generator Apk
